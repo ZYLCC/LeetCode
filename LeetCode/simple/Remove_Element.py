@@ -1,3 +1,6 @@
+'''https://leetcode-cn.com/problems/remove-element/'''
+
+
 class Solution:
     def removeElement(self, nums, val):
         if not nums:

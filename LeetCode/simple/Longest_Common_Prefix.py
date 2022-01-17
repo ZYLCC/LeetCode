@@ -1,3 +1,6 @@
+'''https://leetcode-cn.com/problems/longest-common-prefix/'''
+
+
 class Solution:
     def longestCommonPrefix(self, strs):
         '''''自己写的'''''
