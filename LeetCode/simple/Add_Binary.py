@@ -1,3 +1,5 @@
+'''https://leetcode-cn.com/problems/add-binary/'''
+
 class Solution:
     def addBinary(self, a, b) -> str:
         # 内置函数
